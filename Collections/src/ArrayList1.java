@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	a.add(2,"tarun");
 	a.add("sreelekha");
 	a.add("hema");
-	a.add("rahul");
+	a.add(2,"rahul");
 	//System.out.println(a);
 	/*a.removeAll(a);
 	System.out.println(a.isEmpty());*/
